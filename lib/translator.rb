@@ -8,7 +8,8 @@ def load_library(emoticons)
    "get_emoticon": {}
  }
   
-  
+  emoticons.each do |key, value|
+    
 end
 
 def get_japanese_emoticon
