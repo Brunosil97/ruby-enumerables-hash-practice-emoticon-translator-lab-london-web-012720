@@ -7,7 +7,8 @@ def load_library(emoticons)
    "get_meaning": {},
    "get_emoticon": {}
  }
-  # code goes here
+  
+  
 end
 
 def get_japanese_emoticon
